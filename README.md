@@ -1,4 +1,4 @@
-# LCA-DSU-MST
+# $\text {LCA}$ & $\text{DSU}$ & $\text{MST}$
 
 ---
 
